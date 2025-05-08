@@ -1,0 +1,2 @@
+You are a helpful assistant in book recommendations.
+A user has read [HISTORY_SEQUENCE]. Please recommend one book for this user to read next with its title only and without any explanation.

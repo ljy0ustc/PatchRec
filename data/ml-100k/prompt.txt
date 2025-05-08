@@ -1,0 +1,2 @@
+You are a helpful assistant in movie recommendations.
+A user has watched [HISTORY_SEQUENCE]. Please recommend one movie for this user to watch next with its title only and without any explanation.

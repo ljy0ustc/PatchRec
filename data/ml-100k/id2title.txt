@@ -1,0 +1,1682 @@
+0||Toy Story
+1||GoldenEye
+2||Four Rooms
+3||Get Shorty
+4||Copycat
+5||Shanghai Triad
+6||Twelve Monkeys
+7||Babe
+8||Dead Man Walking
+9||Richard III
+10||Seven
+11||The Usual Suspects
+12||Mighty Aphrodite
+13||Postino, Il
+14||Mr. Holland's Opus
+15||French Twist
+16||From Dusk Till Dawn
+17||The White Balloon
+18||Antonia's Line
+19||Angels and Insects
+20||Muppet Treasure Island
+21||Braveheart
+22||Taxi Driver
+23||Rumble in the Bronx
+24||The Birdcage
+25||The Brothers McMullen
+26||Bad Boys
+27||Apollo 13
+28||Batman Forever
+29||Belle de jour
+30||Crimson Tide
+31||Crumb
+32||Desperado
+33||The Doom Generation
+34||Free Willy 2: The Adventure Home
+35||Mad Love
+36||Nadja
+37||The Net
+38||Strange Days
+39||To Wong Foo, Thanks for Everything! Julie Newmar
+40||Billy Madison
+41||Clerks
+42||Disclosure
+43||Dolores Claiborne
+44||Eat Drink Man Woman
+45||Exotica
+46||Ed Wood
+47||Hoop Dreams
+48||I.Q.
+49||Star Wars
+50||Legends of the Fall
+51||The Madness of King George
+52||Natural Born Killers
+53||Outbreak
+54||The Professional
+55||Pulp Fiction
+56||Priest
+57||Quiz Show
+58||Three Colors: Red
+59||Three Colors: Blue
+60||Three Colors: White
+61||Stargate
+62||The Santa Clause
+63||The Shawshank Redemption
+64||What's Eating Gilbert Grape
+65||While You Were Sleeping
+66||Ace Ventura: Pet Detective
+67||The Crow
+68||Forrest Gump
+69||Four Weddings and a Funeral
+70||The Lion King
+71||The Mask
+72||Maverick
+73||Faster Pussycat! Kill! Kill!
+74||Brother Minister: The Assassination of Malcolm X
+75||Carlito's Way
+76||The Firm
+77||Free Willy
+78||The Fugitive
+79||Hot Shots! Part Deux
+80||The Hudsucker Proxy
+81||Jurassic Park
+82||Much Ado About Nothing
+83||Robert A. Heinlein's The Puppet Masters
+84||The Ref
+85||The Remains of the Day
+86||Searching for Bobby Fischer
+87||Sleepless in Seattle
+88||Blade Runner
+89||So I Married an Axe Murderer
+90||The Nightmare Before Christmas
+91||True Romance
+92||Welcome to the Dollhouse
+93||Home Alone
+94||Aladdin
+95||Terminator 2: Judgment Day
+96||Dances with Wolves
+97||The Silence of the Lambs
+98||Snow White and the Seven Dwarfs
+99||Fargo
+100||Heavy Metal
+101||The Aristocats
+102||All Dogs Go to Heaven 2
+103||Theodore Rex
+104||Sgt. Bilko
+105||Diabolique
+106||Moll Flanders
+107||Kids in the Hall: Brain Candy
+108||Mystery Science Theater 3000: The Movie
+109||Operation Dumbo Drop
+110||The Truth About Cats & Dogs
+111||Flipper
+112||The Horseman on the Roof
+113||Wallace & Gromit: The Best of Aardman Animation
+114||The Haunted World of Edward D. Wood Jr.
+115||Cold Comfort Farm
+116||The Rock
+117||Twister
+118||Maya Lin: A Strong Clear Vision
+119||Striptease
+120||Independence Day
+121||The Cable Guy
+122||The Frighteners
+123||Lone Star
+124||Phenomenon
+125||The Spitfire Grill
+126||The Godfather
+127||Supercop
+128||Bound
+129||Kansas City
+130||Breakfast at Tiffany's
+131||The Wizard of Oz
+132||Gone with the Wind
+133||Citizen Kane
+134||2001: A Space Odyssey
+135||Mr. Smith Goes to Washington
+136||Big Night
+137||D3: The Mighty Ducks
+138||The Love Bug
+139||Homeward Bound: The Incredible Journey
+140||20,000 Leagues Under the Sea
+141||Bedknobs and Broomsticks
+142||The Sound of Music
+143||Die Hard
+144||The Lawnmower Man
+145||Unhook the Stars
+146||The Long Kiss Goodnight
+147||The Ghost and the Darkness
+148||Jude
+149||Swingers
+150||Willy Wonka and the Chocolate Factory
+151||Sleeper
+152||A Fish Called Wanda
+153||Monty Python's Life of Brian
+154||Dirty Dancing
+155||Reservoir Dogs
+156||Platoon
+157||Weekend at Bernie's
+158||Basic Instinct
+159||Glengarry Glen Ross
+160||Top Gun
+161||On Golden Pond
+162||The Return of the Pink Panther
+163||The Abyss
+164||Jean de Florette
+165||Manon of the Spring
+166||Private Benjamin
+167||Monty Python and the Holy Grail
+168||The Wrong Trousers
+169||Cinema Paradiso
+170||Delicatessen
+171||The Empire Strikes Back
+172||The Princess Bride
+173||Raiders of the Lost Ark
+174||Brazil
+175||Aliens
+176||The Good, The Bad and The Ugly
+177||12 Angry Men
+178||A Clockwork Orange
+179||Apocalypse Now
+180||Return of the Jedi
+181||GoodFellas
+182||Alien
+183||Army of Darkness
+184||Psycho
+185||The Blues Brothers
+186||The Godfather: Part II
+187||Full Metal Jacket
+188||A Grand Day Out
+189||Henry V
+190||Amadeus
+191||Raging Bull
+192||The Right Stuff
+193||The Sting
+194||The Terminator
+195||Dead Poets Society
+196||The Graduate
+197||Nikita
+198||The Bridge on the River Kwai
+199||The Shining
+200||Evil Dead II
+201||Groundhog Day
+202||Unforgiven
+203||Back to the Future
+204||Patton
+205||Akira
+206||Cyrano de Bergerac
+207||Young Frankenstein
+208||This Is Spinal Tap
+209||Indiana Jones and the Last Crusade
+210||M*A*S*H
+211||The Unbearable Lightness of Being
+212||A Room with a View
+213||Pink Floyd - The Wall
+214||Field of Dreams
+215||When Harry Met Sally...
+216||Bram Stoker's Dracula
+217||Cape Fear
+218||A Nightmare on Elm Street
+219||The Mirror Has Two Faces
+220||Breaking the Waves
+221||Star Trek: First Contact
+222||Sling Blade
+223||Ridicule
+224||101 Dalmatians
+225||Die Hard 2
+226||Star Trek VI: The Undiscovered Country
+227||Star Trek: The Wrath of Khan
+228||Star Trek III: The Search for Spock
+229||Star Trek IV: The Voyage Home
+230||Batman Returns
+231||Young Guns
+232||Under Siege
+233||Jaws
+234||Mars Attacks!
+235||Citizen Ruth
+236||Jerry Maguire
+237||Raising Arizona
+238||Sneakers
+239||Beavis and Butt-head Do America
+240||The Last of the Mohicans
+241||Kolya
+242||Jungle2Jungle
+243||Smilla's Sense of Snow
+244||The Devil's Own
+245||Chasing Amy
+246||Turbo: A Power Rangers Movie
+247||Grosse Pointe Blank
+248||Austin Powers: International Man of Mystery
+249||The Fifth Element
+250||Shall We Dance?
+251||The Lost World: Jurassic Park
+252||The Pillow Book
+253||Batman & Robin
+254||My Best Friend's Wedding
+255||When the Cats Away
+256||Men in Black
+257||Contact
+258||George of the Jungle
+259||Event Horizon
+260||Air Bud
+261||In the Company of Men
+262||Steel
+263||Mimic
+264||The Hunt for Red October
+265||Kull the Conqueror
+266||unknown
+267||Chasing Amy
+268||The Full Monty
+269||Gattaca
+270||Starship Troopers
+271||Good Will Hunting
+272||Heat
+273||Sabrina
+274||Sense and Sensibility
+275||Leaving Las Vegas
+276||Restoration
+277||Bed of Roses
+278||Once Upon a Time... When We Were Colored
+279||Up Close and Personal
+280||The River Wild
+281||A Time to Kill
+282||Emma
+283||Tin Cup
+284||Secrets & Lies
+285||The English Patient
+286||Marvin's Room
+287||Scream
+288||Evita
+289||Fierce Creatures
+290||Absolute Power
+291||Rosewood
+292||Donnie Brasco
+293||Liar Liar
+294||Breakdown
+295||Promesse, La
+296||Ulee's Gold
+297||Face/Off
+298||Hoodlum
+299||Air Force One
+300||In & Out
+301||L.A. Confidential
+302||Ulee's Gold
+303||Fly Away Home
+304||The Ice Storm
+305||Mrs. Brown
+306||The Devil's Advocate
+307||FairyTale: A True Story
+308||Deceiver
+309||The Rainmaker
+310||The Wings of the Dove
+311||Midnight in the Garden of Good and Evil
+312||Titanic
+313||3 Ninjas: High Noon At Mega Mountain
+314||Apt Pupil
+315||As Good As It Gets
+316||In the Name of the Father
+317||Schindler's List
+318||Everyone Says I Love You
+319||Paradise Lost: The Child Murders at Robin Hood Hills
+320||Mother
+321||Murder at 1600
+322||Dante's Peak
+323||Lost Highway
+324||Crash
+325||G.I. Jane
+326||Cop Land
+327||Conspiracy Theory
+328||Desperate Measures
+329||187
+330||The Edge
+331||Kiss the Girls
+332||The Game
+333||U Turn
+334||How to Be a Player
+335||Playing God
+336||The House of Yes
+337||Bean
+338||Mad City
+339||Boogie Nights
+340||Critical Care
+341||The Man Who Knew Too Little
+342||Alien: Resurrection
+343||The Apostle
+344||Deconstructing Harry
+345||Jackie Brown
+346||Wag the Dog
+347||Desperate Measures
+348||Hard Rain
+349||Fallen
+350||The Prophecy II
+351||Spice World
+352||Deep Rising
+353||The Wedding Singer
+354||Sphere
+355||The Client
+356||One Flew Over the Cuckoo's Nest
+357||Spawn
+358||The Assignment
+359||Wonderland
+360||Incognito
+361||Blues Brothers 2000
+362||Sudden Death
+363||Ace Ventura: When Nature Calls
+364||Powder
+365||Dangerous Minds
+366||Clueless
+367||Bio-Dome
+368||Black Sheep
+369||Mary Reilly
+370||The Bridges of Madison County
+371||Jeffrey
+372||Judge Dredd
+373||Mighty Morphin Power Rangers: The Movie
+374||Showgirls
+375||Houseguest
+376||Heavyweights
+377||Miracle on 34th Street
+378||Tales From the Crypt Presents: Demon Knight
+379||Star Trek: Generations
+380||Muriel's Wedding
+381||The Adventures of Priscilla, Queen of the Desert
+382||The Flintstones
+383||Naked Gun 33 1/3: The Final Insult
+384||True Lies
+385||Addams Family Values
+386||The Age of Innocence
+387||Beverly Hills Cop III
+388||Black Beauty
+389||Fear of a Black Hat
+390||Last Action Hero
+391||The Man Without a Face
+392||Mrs. Doubtfire
+393||Radioland Murders
+394||Robin Hood: Men in Tights
+395||Serial Mom
+396||Striking Distance
+397||Super Mario Bros.
+398||The Three Musketeers
+399||The Little Rascals
+400||The Brady Bunch Movie
+401||Ghost
+402||Batman
+403||Pinocchio
+404||Mission: Impossible
+405||Thinner
+406||Spy Hard
+407||A Close Shave
+408||Jack
+409||Kingpin
+410||The Nutty Professor
+411||A Very Brady Sequel
+412||Tales from the Crypt Presents: Bordello of Blood
+413||My Favorite Year
+414||The Apple Dumpling Gang
+415||Old Yeller
+416||The Parent Trap
+417||Cinderella
+418||Mary Poppins
+419||Alice in Wonderland
+420||William Shakespeare's Romeo and Juliet
+421||Aladdin and the King of Thieves
+422||E.T. the Extra-Terrestrial
+423||Children of the Corn: The Gathering
+424||Bob Roberts
+425||The Transformers: The Movie
+426||To Kill a Mockingbird
+427||Harold and Maude
+428||The Day the Earth Stood Still
+429||Duck Soup
+430||Highlander
+431||Fantasia
+432||Heathers
+433||Forbidden Planet
+434||Butch Cassidy and the Sundance Kid
+435||An American Werewolf in London
+436||Amityville 1992: It's About Time
+437||Amityville 3-D
+438||Amityville: A New Generation
+439||Amityville II: The Possession
+440||The Amityville Horror
+441||The Amityville Curse
+442||The Birds
+443||The Blob
+444||The Body Snatcher
+445||Burnt Offerings
+446||Carrie
+447||The Omen
+448||Star Trek: The Motion Picture
+449||Star Trek V: The Final Frontier
+450||Grease
+451||Jaws 2
+452||Jaws 3-D
+453||Bastard Out of Carolina
+454||Jackie Chan's First Strike
+455||Beverly Hills Ninja
+456||Free Willy 3: The Rescue
+457||Nixon
+458||Cry, the Beloved Country
+459||The Crossing Guard
+460||Smoke
+461||Like Water For Chocolate
+462||The Secret of Roan Inish
+463||Vanya on 42nd Street
+464||The Jungle Book
+465||Red Rock West
+466||A Bronx Tale
+467||Rudy
+468||Short Cuts
+469||Tombstone
+470||Courage Under Fire
+471||Dragonheart
+472||James and the Giant Peach
+473||Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+474||Trainspotting
+475||The First Wives Club
+476||Matilda
+477||The Philadelphia Story
+478||Vertigo
+479||North by Northwest
+480||The Apartment
+481||Some Like It Hot
+482||Casablanca
+483||The Maltese Falcon
+484||My Fair Lady
+485||Sabrina
+486||Roman Holiday
+487||Sunset Blvd.
+488||Notorious
+489||To Catch a Thief
+490||The Adventures of Robin Hood
+491||East of Eden
+492||The Thin Man
+493||His Girl Friday
+494||Around the World in 80 Days
+495||It's a Wonderful Life
+496||Bringing Up Baby
+497||The African Queen
+498||Cat on a Hot Tin Roof
+499||Fly Away Home
+500||Dumbo
+501||Bananas
+502||The Candidate
+503||Bonnie and Clyde
+504||Dial M for Murder
+505||Rebel Without a Cause
+506||A Streetcar Named Desire
+507||The People vs. Larry Flynt
+508||My Left Foot
+509||The Magnificent Seven
+510||Lawrence of Arabia
+511||Wings of Desire
+512||The Third Man
+513||Annie Hall
+514||Boot, Das
+515||Local Hero
+516||Manhattan
+517||Miller's Crossing
+518||The Treasure of the Sierra Madre
+519||The Great Escape
+520||The Deer Hunter
+521||Down by Law
+522||Cool Hand Luke
+523||The Great Dictator
+524||The Big Sleep
+525||Ben-Hur
+526||Gandhi
+527||The Killing Fields
+528||My Life as a Dog
+529||The Man Who Would Be King
+530||Shine
+531||Kama Sutra: A Tale of Love
+532||The Daytrippers
+533||Traveller
+534||Addicted to Love
+535||Ponette
+536||My Own Private Idaho
+537||Anastasia
+538||Mouse Hunt
+539||Money Train
+540||Mortal Kombat
+541||Pocahontas
+542||Misérables, Les
+543||Things to Do in Denver when You're Dead
+544||Vampire in Brooklyn
+545||Broken Arrow
+546||The Young Poisoner's Handbook
+547||The NeverEnding Story III
+548||Rob Roy
+549||Die Hard: With a Vengeance
+550||Lord of Illusions
+551||Species
+552||A Walk in the Clouds
+553||Waterworld
+554||White Man's Burden
+555||Wild Bill
+556||Farinelli: il castrato
+557||Heavenly Creatures
+558||Interview with the Vampire
+559||A Kid in King Arthur's Court
+560||Mary Shelley's Frankenstein
+561||The Quick and the Dead
+562||Stephen King's The Langoliers
+563||Tales from the Hood
+564||Village of the Damned
+565||Clear and Present Danger
+566||Wes Craven's New Nightmare
+567||Speed
+568||Wolf
+569||Wyatt Earp
+570||Another Stakeout
+571||Blown Away
+572||Body Snatchers
+573||Boxing Helena
+574||City Slickers II: The Legend of Curly's Gold
+575||Cliffhanger
+576||Coneheads
+577||Demolition Man
+578||Fatal Instinct
+579||The Englishman Who Went Up a Hill, But Came Down a Mountain
+580||Kalifornia
+581||The Piano
+582||Romeo Is Bleeding
+583||The Secret Garden
+584||Son in Law
+585||Terminal Velocity
+586||The Hour of the Pig
+587||Beauty and the Beast
+588||The Wild Bunch
+589||Hellraiser: Bloodline
+590||Primal Fear
+591||True Crime
+592||Stalingrad
+593||Heavy
+594||The Fan
+595||The Hunchback of Notre Dame
+596||Eraser
+597||The Big Squeeze
+598||Police Story 4: Project S
+599||Daniel Defoe's Robinson Crusoe
+600||For Whom the Bell Tolls
+601||An American in Paris
+602||Rear Window
+603||It Happened One Night
+604||Meet Me in St. Louis
+605||All About Eve
+606||Rebecca
+607||Spellbound
+608||Father of the Bride
+609||Gigi
+610||Laura
+611||Lost Horizon
+612||My Man Godfrey
+613||Giant
+614||The 39 Steps
+615||Night of the Living Dead
+616||The Blue Angel
+617||Picnic
+618||Extreme Measures
+619||The Chamber
+620||Davy Crockett, King of the Wild Frontier
+621||Swiss Family Robinson
+622||Angels in the Outfield
+623||The Three Caballeros
+624||The Sword in the Stone
+625||So Dear to My Heart
+626||Robin Hood: Prince of Thieves
+627||Sleepers
+628||Victor/Victoria
+629||The Great Race
+630||The Crying Game
+631||Sophie's Choice
+632||A Christmas Carol
+633||Microcosmos: Le peuple de l'herbe
+634||The Fog
+635||Escape from New York
+636||The Howling
+637||The Return of Martin Guerre
+638||The Tin Drum
+639||The Cook the Thief His Wife & Her Lover
+640||Paths of Glory
+641||The Grifters
+642||The Innocent
+643||The Thin Blue Line
+644||Paris Is Burning
+645||Once Upon a Time in the West
+646||Ran
+647||The Quiet Man
+648||Once Upon a Time in America
+649||The Seventh Seal
+650||Glory
+651||Rosencrantz and Guildenstern Are Dead
+652||Touch of Evil
+653||Chinatown
+654||Stand by Me
+655||M
+656||The Manchurian Candidate
+657||Pump Up the Volume
+658||Arsenic and Old Lace
+659||Fried Green Tomatoes
+660||High Noon
+661||Somewhere in Time
+662||Being There
+663||Paris, Texas
+664||Alien 3
+665||Blood For Dracula
+666||Audrey Rose
+667||Blood Beach
+668||Body Parts
+669||Body Snatchers
+670||Bride of Frankenstein
+671||Candyman
+672||Cape Fear
+673||Cat People
+674||Nosferatu
+675||The Crucible
+676||Fire on the Mountain
+677||Volcano
+678||Conan the Barbarian
+679||Kull the Conqueror
+680||Wishmaster
+681||I Know What You Did Last Summer
+682||Rocket Man
+683||In the Line of Fire
+684||Executive Decision
+685||A Perfect World
+686||McHale's Navy
+687||Leave It to Beaver
+688||The Jackal
+689||Seven Years in Tibet
+690||Dark City
+691||The American President
+692||Casino
+693||Persuasion
+694||Kicking and Screaming
+695||City Hall
+696||The Basketball Diaries
+697||The Browning Version
+698||Little Women
+699||Miami Rhapsody
+700||The Wonderful, Horrible Life of Leni Riefenstahl
+701||Barcelona
+702||Widows' Peak
+703||The House of the Spirits
+704||Singin' in the Rain
+705||Bad Moon
+706||Enchanted April
+707||Sex, Lies, and Videotape
+708||Strictly Ballroom
+709||Better Off Dead...
+710||The Substance of Fire
+711||Tin Men
+712||Othello
+713||Carrington
+714||To Die For
+715||Home for the Holidays
+716||The Juror
+717||In the Bleak Midwinter
+718||Canadian Bacon
+719||First Knight
+720||Mallrats
+721||Nine Months
+722||Boys on the Side
+723||Circle of Friends
+724||Exit to Eden
+725||Fluke
+726||Immortal Beloved
+727||Junior
+728||Nell
+729||Queen Margot
+730||Corrina, Corrina
+731||Dave
+732||Go Fish
+733||Made in America
+734||Philadelphia
+735||Shadowlands
+736||Sirens
+737||Threesome
+738||Pretty Woman
+739||Jane Eyre
+740||The Last Supper
+741||Ransom
+742||The Crow: City of Angels
+743||Michael Collins
+744||The Ruling Class
+745||Real Genius
+746||Benny & Joon
+747||The Saint
+748||The MatchMaker
+749||Amistad
+750||Tomorrow Never Dies
+751||The Replacement Killers
+752||Burnt By the Sun
+753||Red Corner
+754||Jumanji
+755||Father of the Bride Part II
+756||Across the Sea of Time
+757||Lawnmower Man 2: Beyond Cyberspace
+758||Fair Game
+759||Screamers
+760||Nick of Time
+761||Beautiful Girls
+762||Happy Gilmore
+763||If Lucy Fell
+764||Boomerang
+765||Man of the Year
+766||The Addiction
+767||Casper
+768||Congo
+769||Devil in a Blue Dress
+770||Johnny Mnemonic
+771||Kids
+772||Mute Witness
+773||The Prophecy
+774||Something to Talk About
+775||Three Wishes
+776||Castle Freak
+777||Don Juan DeMarco
+778||Drop Zone
+779||Dumb & Dumber
+780||French Kiss
+781||Little Odessa
+782||Milk Money
+783||Beyond Bedlam
+784||Only You
+785||The Perez Family
+786||Roommates
+787||Relative Fear
+788||Swimming with Sharks
+789||Tommy Boy
+790||The Baby-Sitters Club
+791||Bullets Over Broadway
+792||Crooklyn
+793||It Could Happen to You
+794||Richie Rich
+795||Speechless
+796||Timecop
+797||Bad Company
+798||Boys Life
+799||In the Mouth of Madness
+800||The Air Up There
+801||Hard Target
+802||Heaven & Earth
+803||Jimmy Hollywood
+804||Manhattan Murder Mystery
+805||Menace II Society
+806||Poetic Justice
+807||The Program
+808||Rising Sun
+809||The Shadow
+810||Thirty-Two Short Films About Glenn Gould
+811||Andre
+812||The Celluloid Closet
+813||A Great Day in Harlem
+814||One Fine Day
+815||Candyman: Farewell to the Flesh
+816||Frisk
+817||Girl 6
+818||Eddie
+819||Space Jam
+820||Mrs. Winterbourne
+821||Faces
+822||Mulholland Falls
+823||The Great White Hype
+824||The Arrival
+825||The Phantom
+826||Daylight
+827||Alaska
+828||Fled
+829||Power 98
+830||Escape from L.A.
+831||Bogus
+832||Bulletproof
+833||Halloween: The Curse of Michael Myers
+834||The Gay Divorcee
+835||Ninotchka
+836||Meet John Doe
+837||In the Line of Duty 2
+838||Loch Ness
+839||Last Man Standing
+840||The Glimmer Man
+841||Pollyanna
+842||The Shaggy Dog
+843||Freeway
+844||That Thing You Do!
+845||To Gillian on Her 37th Birthday
+846||Looking for Richard
+847||Murder, My Sweet
+848||Days of Thunder
+849||A Perfect Candidate
+850||Two or Three Things I Know About Her
+851||The Bloody Child
+852||Braindead
+853||Bad Taste
+854||Diva
+855||Night on Earth
+856||Paris Was a Woman
+857||Amityville: Dollhouse
+858||April Fool's Day
+859||The Believers
+860||Nosferatu a Venezia
+861||Jingle All the Way
+862||The Garden of Finzi-Contini
+863||My Fellow Americans
+864||The Ice Storm
+865||Michael
+866||The Whole Wide World
+867||Hearts and Minds
+868||Fools Rush In
+869||Touch
+870||Vegas Vacation
+871||Love Jones
+872||Picture Perfect
+873||Career Girls
+874||She's So Lovely
+875||Money Talks
+876||Excess Baggage
+877||That Darn Cat!
+878||The Peacemaker
+879||Soul Food
+880||Money Talks
+881||Washington Square
+882||Telling Lies in America
+883||Year of the Horse
+884||Phantoms
+885||A Life Less Ordinary
+886||Eve's Bayou
+887||One Night Stand
+888||The Tango Lesson
+889||Mortal Kombat: Annihilation
+890||Bent
+891||Flubber
+892||For Richer or Poorer
+893||Home Alone 3
+894||Scream 2
+895||The Sweet Hereafter
+896||Time Tracers
+897||The Postman
+898||The Winter Guest
+899||Kundun
+900||Mr. Magoo
+901||The Big Lebowski
+902||Afterglow
+903||Ma vie en rose
+904||Great Expectations
+905||Oscar & Lucinda
+906||Vermin
+907||Half Baked
+908||Dangerous Beauty
+909||Nil By Mouth
+910||Twilight
+911||U.S. Marshalls
+912||Love and Death on Long Island
+913||Wild Things
+914||Primary Colors
+915||Lost in Space
+916||Mercury Rising
+917||City of Angels
+918||The City of Lost Children
+919||Two Bits
+920||Farewell My Concubine
+921||Dead Man
+922||Raise the Red Lantern
+923||White Squall
+924||Unforgettable
+925||Down Periscope
+926||The Flower of My Secret
+927||The Craft
+928||Harriet the Spy
+929||Chain Reaction
+930||The Island of Dr. Moreau
+931||First Kid
+932||The Funeral
+933||The Preacher's Wife
+934||Paradise Road
+935||Brassed Off
+936||A Thousand Acres
+937||A Smile Like Yours
+938||Murder in the First
+939||Airheads
+940||With Honors
+941||What's Love Got to Do with It
+942||Killing Zoe
+943||Renaissance Man
+944||Charade
+945||The Fox and the Hound
+946||The Big Blue
+947||Booty Call
+948||How to Make an American Quilt
+949||Georgia
+950||The Indian in the Cupboard
+951||Blue in the Face
+952||Unstrung Heroes
+953||Unzipped
+954||Before Sunrise
+955||Nobody's Fool
+956||Pushing Hands
+957||To Live
+958||Dazed and Confused
+959||Naked
+960||Orlando
+961||Ruby in Paradise
+962||Some Folks Call It a Sling Blade
+963||A Month by the Lake
+964||Funny Face
+965||An Affair to Remember
+966||Little Lord Fauntleroy
+967||The Inspector General
+968||Winnie the Pooh and the Blustery Day
+969||Hear My Song
+970||Mediterraneo
+971||Passion Fish
+972||Grateful Dead
+973||Eye for an Eye
+974||Fear
+975||Solo
+976||The Substitute
+977||Heaven's Prisoners
+978||The Trigger Effect
+979||Mother Night
+980||Dangerous Ground
+981||Maximum Risk
+982||The Rich Man's Wife
+983||Shadow Conspiracy
+984||Blood & Wine
+985||Turbulence
+986||Underworld
+987||The Beautician and the Beast
+988||Cats Don't Dance
+989||Anna Karenina
+990||Keys to Tulsa
+991||Head Above Water
+992||Hercules
+993||The Last Time I Committed Suicide
+994||Kiss Me, Guido
+995||The Big Green
+996||Stuart Saves His Family
+997||Cabin Boy
+998||Clean Slate
+999||Lightning Jack
+1000||The Stupids
+1001||The Pest
+1002||That Darn Cat!
+1003||Geronimo: An American Legend
+1004||Double vie de Véronique, La
+1005||Until the End of the World
+1006||Waiting for Guffman
+1007||I Shot Andy Warhol
+1008||Stealing Beauty
+1009||Basquiat
+1010||2 Days in the Valley
+1011||Private Parts
+1012||Anaconda
+1013||Romy and Michele's High School Reunion
+1014||Shiloh
+1015||Con Air
+1016||Trees Lounge
+1017||Tie Me Up! Tie Me Down!
+1018||Die xue shuang xiong
+1019||Gaslight
+1020||8 1/2
+1021||Fast, Cheap & Out of Control
+1022||Fathers' Day
+1023||Mrs. Dalloway
+1024||Fire Down Below
+1025||The Lay of the Land
+1026||The Shooter
+1027||Grumpier Old Men
+1028||Jury Duty
+1029||The Beverly Hillbillies
+1030||Lassie
+1031||Little Big League
+1032||Homeward Bound II: Lost in San Francisco
+1033||The Quest
+1034||Cool Runnings
+1035||Drop Dead Fred
+1036||Grease 2
+1037||Switchback
+1038||Hamlet
+1039||Two if by Sea
+1040||Forget Paris
+1041||Just Cause
+1042||Rent-a-Kid
+1043||The Paper
+1044||Fearless
+1045||Malice
+1046||Multiplicity
+1047||She's the One
+1048||House Arrest
+1049||The Ghost and Mrs. Muir
+1050||The Associate
+1051||Dracula: Dead and Loving It
+1052||Now and Then
+1053||Mr. Wrong
+1054||A Simple Twist of Fate
+1055||Cronos
+1056||The Pallbearer
+1057||The War
+1058||Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+1059||The Adventures of Pinocchio
+1060||The Evening Star
+1061||Four Days in September
+1062||A Little Princess
+1063||Crossfire
+1064||Koyaanisqatsi
+1065||Balto
+1066||Bottle Rocket
+1067||The Star Maker
+1068||Amateur
+1069||Living in Oblivion
+1070||Party Girl
+1071||A Pyromaniac's Love Story
+1072||Shallow Grave
+1073||Reality Bites
+1074||A Man of No Importance
+1075||The Pagemaster
+1076||Love and a .45
+1077||Oliver & Company
+1078||Joe's Apartment
+1079||Celestial Clockwork
+1080||Curdled
+1081||Female Perversions
+1082||Albino Alligator
+1083||Anne Frank Remembered
+1084||Carried Away
+1085||It's My Party
+1086||Bloodsport 2
+1087||Double Team
+1088||Speed 2: Cruise Control
+1089||Sliver
+1090||Pete's Dragon
+1091||Dear God
+1092||Live Nude Girls
+1093||A Thin Line Between Love and Hate
+1094||High School High
+1095||Commandments
+1096||Hate
+1097||Flirting With Disaster
+1098||Red Firecracker, Green Firecracker
+1099||What Happened Was...
+1100||Six Degrees of Separation
+1101||Two Much
+1102||Trust
+1103||C'est arrivé près de chez vous
+1104||Firestorm
+1105||The Newton Boys
+1106||Beyond Rangoon
+1107||Feast of July
+1108||Death and the Maiden
+1109||Tank Girl
+1110||Double Happiness
+1111||Cobb
+1112||Mrs. Parker and the Vicious Circle
+1113||Faithful
+1114||Twelfth Night
+1115||The Mark of Zorro
+1116||Surviving Picasso
+1117||Up in Smoke
+1118||Some Kind of Wonderful
+1119||I'm Not Rappaport
+1120||The Umbrellas of Cherbourg
+1121||They Made Me a Criminal
+1122||The Last Time I Saw Paris
+1123||A Farewell to Arms
+1124||The Innocents
+1125||The Old Man and the Sea
+1126||The Truman Show
+1127||Heidi Fleiss: Hollywood Madam
+1128||Chungking Express
+1129||Jupiter's Wife
+1130||Safe
+1131||Feeling Minnesota
+1132||Escape to Witch Mountain
+1133||Get on the Bus
+1134||The Doors
+1135||Ghosts of Mississippi
+1136||Beautiful Thing
+1137||Best Men
+1138||Hackers
+1139||The Road to Wellville
+1140||The War Room
+1141||When We Were Kings
+1142||Hard Eight
+1143||The Quiet Room
+1144||Blue Chips
+1145||Calendar Girl
+1146||My Family
+1147||Tom & Viv
+1148||Walkabout
+1149||Last Dance
+1150||Original Gangstas
+1151||In Love and War
+1152||Backbeat
+1153||Alphaville
+1154||Rendezvous in Paris
+1155||Cyclo
+1156||The Relic
+1157||Fille seule, La
+1158||Stalker
+1159||Love! Valour! Compassion!
+1160||Palookaville
+1161||Phat Beach
+1162||The Portrait of a Lady
+1163||Zeus and Roxanne
+1164||Big Bully
+1165||Love & Human Remains
+1166||The Sum of Us
+1167||Little Buddha
+1168||Fresh
+1169||Spanking the Monkey
+1170||Wild Reeds
+1171||The Women
+1172||Bliss
+1173||Caught
+1174||Hugo Pool
+1175||Welcome To Sarajevo
+1176||Dunston Checks In
+1177||Major Payne
+1178||Man of the House
+1179||I Love Trouble
+1180||A Low Down Dirty Shame
+1181||Cops and Robbersons
+1182||The Cowboy Way
+1183||The Endless Summer 2
+1184||In the Army Now
+1185||The Inkwell
+1186||Switchblade Sisters
+1187||Young Guns II
+1188||Prefontaine
+1189||That Old Feeling
+1190||A Letter From Death Row
+1191||The Boys of St. Vincent
+1192||Before the Rain
+1193||Once Were Warriors
+1194||Strawberry and Chocolate
+1195||Savage Nights
+1196||A Family Thing
+1197||Purple Noon
+1198||Cemetery Man
+1199||Kim
+1200||Marlene Dietrich: Shadow and Light
+1201||Maybe, Maybe Not
+1202||Top Hat
+1203||To Be or Not to Be
+1204||The Secret Agent
+1205||Amos & Andrew
+1206||Jade
+1207||Kiss of Death
+1208||Mixed Nuts
+1209||Virtuosity
+1210||Blue Sky
+1211||Flesh and Bone
+1212||Guilty as Sin
+1213||In the Realm of the Senses
+1214||Barb Wire
+1215||Kissed
+1216||Assassins
+1217||Friday
+1218||A Goofy Movie
+1219||Higher Learning
+1220||When a Man Loves a Woman
+1221||Judgment Night
+1222||King of the Hill
+1223||The Scout
+1224||Angus
+1225||Night Falls on Manhattan
+1226||An Awfully Big Adventure
+1227||Under Siege 2: Dark Territory
+1228||Poison Ivy II
+1229||Ready to Wear
+1230||Marked for Death
+1231||Madonna: Truth or Dare
+1232||Nénette et Boni
+1233||Chairman of the Board
+1234||The Big Bang Theory
+1235||Other Voices, Other Rooms
+1236||Twisted
+1237||Full Speed
+1238||Cutthroat Island
+1239||Ghost in the Shell
+1240||The Van
+1241||The Old Lady Who Walked in the Sea
+1242||Night Flier
+1243||Metro
+1244||Gridlock'd
+1245||Bushwhacked
+1246||Bad Girls
+1247||Blink
+1248||For Love or Money
+1249||Best of the Best 3: No Turning Back
+1250||A Chef in Love
+1251||Contempt
+1252||The Tie That Binds
+1253||Gone Fishin'
+1254||Broken English
+1255||The Designated Mourner
+1256||The Designated Mourner
+1257||Trial and Error
+1258||Pie in the Sky
+1259||Total Eclipse
+1260||The Run of the Country
+1261||Walking and Talking
+1262||Foxfire
+1263||Nothing to Lose
+1264||Star Maps
+1265||Bread and Chocolate
+1266||Clockers
+1267||Bitter Moon
+1268||Love in the Afternoon
+1269||Life with Mikey
+1270||North
+1271||Talking About Sex
+1272||Color of Night
+1273||Robocop 3
+1274||Killer
+1275||Sunset Park
+1276||Set It Off
+1277||Selena
+1278||Wild America
+1279||Gang Related
+1280||Manny & Lo
+1281||The Grass Harp
+1282||Out to Sea
+1283||Before and After
+1284||Princess Caraboo
+1285||Shall We Dance?
+1286||Ed
+1287||Denise Calls Up
+1288||Jack and Sarah
+1289||Country Life
+1290||Celtic Pride
+1291||A Simple Wish
+1292||Star Kid
+1293||Ayn Rand: A Sense of Life
+1294||Kicked in the Head
+1295||Indian Summer
+1296||Love Affair
+1297||The Band Wagon
+1298||Penny Serenade
+1299||Til There Was You
+1300||Stripes
+1301||Late Bloomers
+1302||The Getaway
+1303||New York Cop
+1304||National Lampoon's Senior Trip
+1305||Delta of Venus
+1306||Carmen Miranda: Bananas Is My Business
+1307||Babyfever
+1308||A Very Natural Thing
+1309||A Walk in the Sun
+1310||Waiting to Exhale
+1311||The Pompatus of Love
+1312||Palmetto
+1313||Surviving the Game
+1314||Inventing the Abbotts
+1315||The Horse Whisperer
+1316||The Journey of August King
+1317||Catwalk
+1318||The Neon Bible
+1319||Homage
+1320||Open Season
+1321||Metisse
+1322||The Wooden Man's Bride
+1323||Loaded
+1324||August
+1325||Boys
+1326||Captives
+1327||Of Love and Shadows
+1328||The Low Life
+1329||An Unforgettable Summer
+1330||The Last Klezmer: Leopold Kozlowski, His Life and Music
+1331||My Life and Times With Antonin Artaud
+1332||Midnight Dancers
+1333||Somebody to Love
+1334||American Buffalo
+1335||Kazaam
+1336||Larger Than Life
+1337||Two Deaths
+1338||Stefano Quantestorie
+1339||The Crude Oasis
+1340||Hedd Wyn
+1341||The Convent
+1342||Lotto Land
+1343||The Story of Xinghua
+1344||The Day the Sun Turned Cold
+1345||Dingo
+1346||The Ballad of Narayama
+1347||Every Other Weekend
+1348||Mille bolle blu
+1349||Crows and Sparrows
+1350||Lover's Knot
+1351||Shadow of Angels
+1352||1-900
+1353||Venice/Venice
+1354||Infinity
+1355||Ed's Next Move
+1356||For the Moment
+1357||The Deadly Cure
+1358||Boys in Venice
+1359||The Sexual Life of the Belgians
+1360||The Search for One-eye Jimmy
+1361||American Strays
+1362||The Leopard Son
+1363||Bird of Prey
+1364||Johnny 100 Pesos
+1365||JLG/JLG - autoportrait de décembre
+1366||Faust
+1367||Mina Tannenbaum
+1368||The Forbidden Christ
+1369||I Can't Sleep
+1370||The Machine
+1371||The Stranger
+1372||Good Morning
+1373||Falling in Love Again
+1374||The Cement Garden
+1375||Meet Wally Sparks
+1376||Hotel de Love
+1377||Rhyme & Reason
+1378||Love and Other Catastrophes
+1379||Hollow Reed
+1380||Losing Chase
+1381||Bonheur, Le
+1382||The Second Jungle Book: Mowgli & Baloo
+1383||Squeeze
+1384||Roseanna's Grave
+1385||Tetsuo II: Body Hammer
+1386||Fall
+1387||Gabbeh
+1388||Mondo
+1389||The Innocent Sleep
+1390||For Ever Mozart
+1391||The Locusts
+1392||Stag
+1393||Swept from the Sea
+1394||Hurricane Streets
+1395||Stonewall
+1396||Of Human Bondage
+1397||Anna
+1398||Stranger in the House
+1399||Picture Bride
+1400||M. Butterfly
+1401||Ciao, Professore!
+1402||Caro Diario
+1403||Withnail and I
+1404||Boy's Life 2
+1405||When Night Is Falling
+1406||The Specialist
+1407||Gordy
+1408||The Swan Princess
+1409||Harlem
+1410||Barbarella
+1411||Land Before Time III: The Time of the Great Giving
+1412||Street Fighter
+1413||Coldblooded
+1414||The Next Karate Kid
+1415||No Escape
+1416||The Turning
+1417||The Joy Luck Club
+1418||Highlander III: The Sorcerer
+1419||Gilligan's Island: The Movie
+1420||My Crazy Life
+1421||Suture
+1422||The Walking Dead
+1423||I Like It Like That
+1424||I'll Do Anything
+1425||Grace of My Heart
+1426||Drunks
+1427||SubUrbia
+1428||Sliding Doors
+1429||Ill Gotten Gains
+1430||Legal Deceit
+1431||The Mighty
+1432||Men of Means
+1433||Shooting Fish
+1434||Steal Big, Steal Little
+1435||Mr. Jones
+1436||House Party 3
+1437||Panther
+1438||Jason's Lyric
+1439||Above the Rim
+1440||Moonlight and Valentino
+1441||The Scarlet Letter
+1442||8 Seconds
+1443||That Darn Cat!
+1444||Ladybird Ladybird
+1445||Bye Bye, Love
+1446||Century
+1447||My Favorite Season
+1448||Pather Panchali
+1449||Golden Earrings
+1450||Foreign Correspondent
+1451||Lady of Burlesque
+1452||Angel on My Shoulder
+1453||Angel and the Badman
+1454||The Outlaw
+1455||Beat the Devil
+1456||Love Is All There Is
+1457||A Damsel in Distress
+1458||Madame Butterfly
+1459||Sleepover
+1460||Here Comes Cookie
+1461||Thieves
+1462||Boys, Les
+1463||The Stars Fell on Henrietta
+1464||Last Summer in the Hamptons
+1465||Margaret's Museum
+1466||The Saint of Fort Washington
+1467||The Cure
+1468||Tom and Huck
+1469||Gumby: The Movie
+1470||Hideaway
+1471||The Visitors
+1472||The Little Princess
+1473||Nina Takes a Lover
+1474||Bhaji on the Beach
+1475||Raw Deal
+1476||Nightwatch
+1477||Dead Presidents
+1478||Reckless
+1479||Herbie Rides Again
+1480||S.F.W.
+1481||The Gate of Heavenly Peace
+1482||The Man in the Iron Mask
+1483||The Jerky Boys
+1484||Colonel Chabert, Le
+1485||Girl in the Cadillac
+1486||Even Cowgirls Get the Blues
+1487||Germinal
+1488||Chasers
+1489||Fausto
+1490||Tough and Deadly
+1491||Window to Paris
+1492||A Modern Affair
+1493||Mostro, Il
+1494||Flirt
+1495||Carpool
+1496||The Line King: Al Hirschfeld
+1497||Farmer & Chase
+1498||Grosse Fatigue
+1499||Santa with Muscles
+1500||Prisoner of the Mountains
+1501||Naked in New York
+1502||Gold Diggers: The Secret of Bear Mountain
+1503||Bewegte Mann, Der
+1504||Killer: A Journal of Murder
+1505||Nelly & Monsieur Arnaud
+1506||Three Lives and Only One Death
+1507||The Babysitter
+1508||Getting Even with Dad
+1509||Mad Dog Time
+1510||Children of the Revolution
+1511||The World of Apu
+1512||Sprung
+1513||Dream With the Fishes
+1514||Wings of Courage
+1515||The Wedding Gift
+1516||Race the Sun
+1517||Losing Isaiah
+1518||New Jersey Drive
+1519||The Fear
+1520||Mr. Wonderful
+1521||Trial by Jury
+1522||A Good Man in Africa
+1523||Kaspar Hauser
+1524||The Object of My Affection
+1525||Witness
+1526||Senseless
+1527||Nowhere
+1528||Underground
+1529||Jefferson in Paris
+1530||Far From Home: The Adventures of Yellow Dog
+1531||Foreign Student
+1532||I Don't Want to Talk About It
+1533||Twin Town
+1534||Enfer, L'
+1535||Aiqing wansui
+1536||Cosi
+1537||All Over Me
+1538||Being Human
+1539||The Amazing Panda Adventure
+1540||The Beans of Egypt, Maine
+1541||The Scarlet Letter
+1542||Johns
+1543||It Takes Two
+1544||Frankie Starlight
+1545||Shadows
+1546||The Show
+1547||The Courtyard
+1548||Dream Man
+1549||Destiny Turns on the Radio
+1550||The Glass Shield
+1551||The Hunted
+1552||The Underneath
+1553||Safe Passage
+1554||The Secret Adventures of Tom Thumb
+1555||Condition Red
+1556||Yankee Zulu
+1557||Aparajito
+1558||Hostile Intentions
+1559||Clean Slate
+1560||Tigrero: A Film That Was Never Made
+1561||The Eye of Vichy
+1562||The Promise
+1563||To Cross the Rubicon
+1564||Daens
+1565||The Man from Down Under
+1566||Careful
+1567||Vermont Is For Lovers
+1568||Vie est belle, La
+1569||Quartier Mozart
+1570||Touki Bouki
+1571||Wend Kuuni
+1572||Spirits of the Dead
+1573||Pharaoh's Army
+1574||I, Worst of All
+1575||A Hungarian Fairy Tale
+1576||Death in the Garden
+1577||Collectionneuse, La
+1578||Baton Rouge
+1579||Liebelei
+1580||The Woman in Question
+1581||T-Men
+1582||The Invitation
+1583||Symphonie pastorale, La
+1584||American Dream
+1585||Lashou shentan
+1586||Terror in a Texas Town
+1587||Salut cousin!
+1588||Schizopolis
+1589||To Have, or Not
+1590||Duoluo tianshi
+1591||The Magic Hour
+1592||Death in Brunswick
+1593||Everest
+1594||Shopping
+1595||Nemesis 2: Nebula
+1596||Romper Stomper
+1597||City of Industry
+1598||Someone Else's America
+1599||Guantanamera
+1600||Office Killer
+1601||A Price Above Rubies
+1602||Angela
+1603||He Walked by Night
+1604||Love Serenade
+1605||Deceiver
+1606||Hurricane Streets
+1607||Buddy
+1608||B*A*P*S
+1609||Truth or Consequences, N.M.
+1610||Intimate Relations
+1611||The Leading Man
+1612||Tokyo Fist
+1613||The Reluctant Debutante
+1614||Warriors of Virtue
+1615||Desert Winds
+1616||Hugo Pool
+1617||King of New York
+1618||All Things Fair
+1619||The Sixth Man
+1620||Butterfly Kiss
+1621||Paris, France
+1622||Cérémonie, La
+1623||Hush
+1624||Nightwatch
+1625||Nobody Loves Me
+1626||The Wife
+1627||Lamerica
+1628||Nico Icon
+1629||The Silence of the Palace
+1630||The Slingshot
+1631||Land and Freedom
+1632||Á köldum klaka
+1633||Etz Hadomim Tafus
+1634||Two Friends
+1635||Brothers in Trouble
+1636||Girls Town
+1637||Normal Life
+1638||Bitter Sugar
+1639||The Eighth Day
+1640||Dadetown
+1641||Some Mother's Son
+1642||Angel Baby
+1643||Sudden Manhattan
+1644||The Butcher Boy
+1645||Men With Guns
+1646||Hana-bi
+1647||Niagara, Niagara
+1648||The Big One
+1649||The Butcher Boy
+1650||The Spanish Prisoner
+1651||Temptress Moon
+1652||Entertaining Angels: The Dorothy Day Story
+1653||Chairman of the Board
+1654||The Favor
+1655||Little City
+1656||Target
+1657||The Substance of Fire
+1658||Getting Away With Murder
+1659||Small Faces
+1660||The New Age
+1661||Rough Magic
+1662||Nothing Personal
+1663||8 Heads in a Duffel Bag
+1664||A Brother's Kiss
+1665||Ripe
+1666||The Next Step
+1667||Wedding Bell Blues
+1668||MURDER and murder
+1669||Tainted
+1670||A Further Gesture
+1671||Kika
+1672||Mirage
+1673||Mamma Roma
+1674||The Sunchaser
+1675||The War at Home
+1676||Sweet Nothing
+1677||Mat' i syn
+1678||B. Monkey
+1679||Sliding Doors
+1680||You So Crazy
+1681||Scream of Stone
